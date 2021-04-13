@@ -201,6 +201,7 @@ aside, img, object, embed, video
 /*Footer Styles*/
 
 .footer {
+   clear: both;
    position: fixed;
    left: 0;
    bottom: 0;
