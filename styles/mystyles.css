@@ -46,7 +46,7 @@ aside, img, object, embed, video
 	flex-flow: row wrap;
 	justify-content: space-around;
     padding: 0;
-	margin:20px;
+	margin-bottom:50px;
 	list-style: none;
 	row-gap: 2em;
 }
