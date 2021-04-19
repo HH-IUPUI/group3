@@ -21,6 +21,7 @@ aside, img, object, embed, video
 
 .banner h1{
   font-size: 50px;
+  font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif;
 }
 
 .banner img {
