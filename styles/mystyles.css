@@ -124,8 +124,7 @@ p
 
 /*Communication Page Full Page Tabs*/
 
-.tablink1 {
-  background-color: #FFB357;
+.tablink {
   color: black;
   float: left;
   border: none;
@@ -135,52 +134,39 @@ p
   font-size: 17px;
   width: 33%;
 }
+.tablink tab1 {
+  background-color: #FFB357;	
+}
 
-.tablink2 {
+.tablink tab2 {
   background-color: #FFDA3A;
-  color: black;
-  float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 14px 16px;
-  font-size: 17px;
-  width: 33%;
 }
 
 .tablink3 {
   background-color: #FFEA93;
-  color: black;
-  float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 14px 16px;
-  font-size: 17px;
-  width: 33%;
 }
 
-.tablink1:active {
+.tablink tab1:active {
   background-color: #FFF5E9;
 }
 
-.tablink2:active {
+.tablink tab2:active {
   background-color: #FFF6D2;
 }
 
-.tablink3:active {
+.tablink tab3:active {
   background-color: #FFFBE8;
 }
   
-.tablink1:hover {
+.tablink tab1:hover {
   background-color: #FFF5E9;
 }
 
-.tablink2:hover {
+.tablink tab2:hover {
   background-color: #FFF6D2;
 }
 
-.tablink3:hover {
+.tablink tab3:hover {
   background-color: #FFFBE8;
 }
 
