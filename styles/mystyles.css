@@ -121,6 +121,39 @@ p
   transform: rotateY(180deg);
   border-radius: 2px;
 }
+
+/*Communication Page Full Page Tabs*/
+
+.tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 33%;
+}
+
+.tablink:active {
+  background-color: #white;
+}
+  
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color: black;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+
+
 /*Responsive iFrame*/
 
 .mapbox {
