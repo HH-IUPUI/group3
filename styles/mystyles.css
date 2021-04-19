@@ -40,6 +40,7 @@ aside, img, object, embed, video
 	margin-left: auto;
 	margin-right: auto;
 	}
+
 h1, h2, h3, h4, h5
 {
         font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif;		
@@ -51,7 +52,7 @@ h1, h2, h3, h4, h5
 p
 {
        letter-spacing: 1px;
-       word-spacing: 5px;
+       word-spacing: 3px;
        line-height: 1.2;
 }
 
