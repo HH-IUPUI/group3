@@ -134,40 +134,13 @@ p
   font-size: 17px;
   width: 33%;
 }
-.tablink tab1 {
-  background-color: #FFB357;	
-}
 
-.tablink tab2 {
-  background-color: #FFDA3A;
-}
-
-.tablink3 {
-  background-color: #FFEA93;
-}
-
-.tablink tab1:active {
+.tablink:active {
   background-color: #FFF5E9;
 }
 
-.tablink tab2:active {
-  background-color: #FFF6D2;
-}
-
-.tablink tab3:active {
-  background-color: #FFFBE8;
-}
-  
-.tablink tab1:hover {
+.tablink:hover {
   background-color: #FFF5E9;
-}
-
-.tablink tab2:hover {
-  background-color: #FFF6D2;
-}
-
-.tablink tab3:hover {
-  background-color: #FFFBE8;
 }
 
 
