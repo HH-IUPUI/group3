@@ -124,9 +124,9 @@ p
 
 /*Communication Page Full Page Tabs*/
 
-.tablink {
-  background-color: #555;
-  color: white;
+.tablink1 {
+  background-color: #FFB357;
+  color: black;
   float: left;
   border: none;
   outline: none;
@@ -136,13 +136,54 @@ p
   width: 33%;
 }
 
-.tablink:active {
-  background-color: #white;
+.tablink2 {
+  background-color: #FFDA3A;
+  color: black;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 33%;
+}
+
+.tablink3 {
+  background-color: #FFEA93;
+  color: black;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 33%;
+}
+
+.tablink1:active {
+  background-color: #FFF5E9;
+}
+
+.tablink2:active {
+  background-color: #FFF6D2;
+}
+
+.tablink3:active {
+  background-color: #FFFBE8;
 }
   
-.tablink:hover {
-  background-color: #777;
+.tablink1:hover {
+  background-color: #FFF5E9;
 }
+
+.tablink2:hover {
+  background-color: #FFF6D2;
+}
+
+.tablink3:hover {
+  background-color: #FFFBE8;
+}
+
 
 /* Style the tab content (and add height:100% for full page content) */
 .tabcontent {
