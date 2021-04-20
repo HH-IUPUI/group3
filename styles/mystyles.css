@@ -431,6 +431,16 @@ nav li a
 	border-bottom: 1px solid #576979;
 	}
 
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 8px;
+  text-decoration: none;
+  font-size: 20px;
+}
+	
+	
 .tablink {
   color: black;
   float: left;
