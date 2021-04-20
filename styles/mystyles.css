@@ -369,7 +369,17 @@ nav a#pull:after
 	right: 15px;
 	top: 10px;
 	}
-					
+
+.tablink {
+  color: black;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 100%;
+}		
 
 }
 
@@ -405,3 +415,4 @@ nav li a
   font-size: 17px;
   width: 100%;
 }	
+}
