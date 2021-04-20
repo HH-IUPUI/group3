@@ -55,6 +55,34 @@ p
        line-height: 1.2;
 }
 
+/*Navigation*/
+
+.topnav {
+  float: right;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #FFF5E9;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #FFEA93;
+  color: black;
+  font-weight: bold;
+}
+
 
 /* Flexbox */
 
