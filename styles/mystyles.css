@@ -16,7 +16,6 @@ img, object, embed
   height: 100px;
   display: flex;
   justify-content: left;
-  align-items: left;
 }
 
 .banner h1{
