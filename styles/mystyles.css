@@ -18,10 +18,10 @@ img, object, embed
   justify-content: left;
 }
 
-.banner h1{
+/*.banner h1{
   font-size: 50px;
   font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif;
-}
+}*/
 
 .banner img {
 	padding: 0;
@@ -29,7 +29,7 @@ img, object, embed
 	height: 100%;
 	display: block;
 	margin-left: 0;
-    margin-right: 0;
+        margin-right: 0;
 }
 
 /* Basic Styles */
