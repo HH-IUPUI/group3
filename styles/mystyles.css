@@ -416,3 +416,16 @@ nav li a
   width: 100%;
 }	
 }
+@media only screen and (device-width: 768px) {
+  /* For general iPad layouts */
+.tablink {
+  color: black;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 32.4%;
+}		
+}
