@@ -394,3 +394,14 @@ nav li a
 	{
 	border-bottom: 1px solid #576979;
 	}
+
+.tablink {
+  color: black;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 100%;
+}	
