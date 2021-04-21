@@ -186,6 +186,7 @@ col_content{
 .tabcontent img {
   width: 150px;
   padding: 20px;
+  align: right;	
 }
 /*Responsive iFrame*/
 
