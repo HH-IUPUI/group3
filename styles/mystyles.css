@@ -183,11 +183,11 @@ col_content{
   height: 100%;
 }
 
-.img-right{
+.tabcontent img-right{
   float: right;
 }
 
-.img-left{
+.tabcontent img-left{
   float: left;
 }
 
