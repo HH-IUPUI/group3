@@ -183,15 +183,6 @@ col_content{
   height: 100%;
 }
 
-.tabcontent img-right{
-  float: right;
-}
-
-.tabcontent img-left{
-  float: left;
-}
-
-
 /*Responsive iFrame*/
 
 .mapbox {
