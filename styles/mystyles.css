@@ -421,7 +421,34 @@ nav a#pull:after
 
 }
 
+/*Styles for screen 375px and lower*/
+@media only screen and (max-width : 375px) {
 
+#container
+	{
+	width: 90%; 
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+.topnav {
+  float: left;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 8px 6px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+}
+
+/*Styles for screen 320px and lower*/
 @media only screen and (max-width : 320px) {
 	
 #container
