@@ -183,17 +183,11 @@ col_content{
   height: 100%;
 }
 
-img-right{
-  width:170px;
-  height:170px;
-  margin-left:15px;
+.img-right{
   float: right;
 }
 
-img-left{
-  width:170px;
-  height:170px;
-  margin-left:15px;
+.img-left{
   float: left;
 }
 
