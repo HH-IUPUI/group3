@@ -183,6 +183,10 @@ col_content{
   height: 100%;
 }
 
+.tabcontent img {
+  width: 150px;
+  padding: 20px;
+}
 /*Responsive iFrame*/
 
 .mapbox {
