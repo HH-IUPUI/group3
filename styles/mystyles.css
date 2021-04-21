@@ -65,6 +65,7 @@ col_content{
   float: right;
   overflow: hidden;
   background-color: #ffffff;
+  margin-top: -35px;	
 }
 
 .topnav a {
