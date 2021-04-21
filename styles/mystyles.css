@@ -186,7 +186,7 @@ col_content{
 .tabcontent img {
   width: 150px;
   padding: 20px;
-  align: right;	
+  float: right;	
 }
 /*Responsive iFrame*/
 
@@ -454,6 +454,12 @@ nav a#pull:after
   font-size: 20px;
 }
 
+.tabcontent img {
+  width: 150px;
+  padding: 20px;
+  float: right;	
+}	
+	
 }
 
 /*Styles for screen 320px and lower*/
@@ -503,7 +509,14 @@ nav li a
   padding: 14px 16px;
   font-size: 17px;
   width: 100%;
-}	
+}
+
+.tabcontent img {
+  width: 150px;
+  padding: 20px;
+  float: right;	
+}
+	
 }
 
 
