@@ -421,8 +421,8 @@ nav a#pull:after
 
 }
 
-/*Styles for screen 375px and lower*/
-@media only screen and (max-width : 375px) {
+/*Styles for screen 375px width and heightr*/
+@media only screen and (device-width: 375px) and (device-height: 375px) {
 
 #container
 	{
