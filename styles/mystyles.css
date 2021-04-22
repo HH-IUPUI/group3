@@ -293,6 +293,7 @@ col_content{
   outline: none;
   font-size: 15px;
   font-weight: bold;
+  margin-bottom: 50px;
 }
 
 .collapsible:active, .collapsible:hover {
