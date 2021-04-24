@@ -456,7 +456,7 @@ nav a#pull:after
 
 }
 
-/*Styles for screen 375px width and heightr*/
+/*Styles for screen 375px width and height
 @media only screen and (device-width: 375px) or (device-height: 375px) {
 
 #container
@@ -488,6 +488,7 @@ nav a#pull:after
 }	
 	
 }
+*/
 
 /*Styles for screen 320px and lower*/
 @media only screen and (max-width : 320px) {
@@ -547,7 +548,7 @@ nav li a
 }
 
 
-@media only screen and (device-width: 768px) {
+@media only screen and (max-width: 768px) {
   /* For general iPad layouts */
 .tablink {
   color: black;
