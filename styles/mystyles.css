@@ -247,7 +247,7 @@ col_content{
     overflow: hidden;
 }
 
-.content table {
+/*.content table {
     border-collapse: collapse;
     width: 100%;
 	padding: 0 10px;
@@ -260,11 +260,10 @@ col_content{
 .content th {
 	text-align: left;
 	padding: 20px;
-}
+} */
 
 .content img {
-    /*padding: 30px;*/
-	width: 30%;
+    	width: 30%;
 	height: auto;
 	display: block;
 	margin-left: auto;
@@ -293,6 +292,7 @@ col_content{
   outline: none;
   font-size: 15px;
   font-weight: bold;
+  margin-bottom: 20px;	
  }
 
 .collapsible:active, .collapsible:hover {
