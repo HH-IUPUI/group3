@@ -310,6 +310,31 @@ col_content{
 /*Footer Styles*/
 
 .footer {
+   background-color: #9E9A9A;
+   color: black;
+   padding: 2.5em;
+   text-align: center;	
+}
+
+.footer logo {
+   display: block;	
+}
+
+.footer a:link {
+   color: black;
+   text-decoration: none;
+	}
+
+.footer a:active {
+   color: black;
+}
+
+.footer a:visited {
+    color: black;	
+}
+
+
+/*.footer {
    clear: both;
    position: relative;
    left: 0;
@@ -351,7 +376,7 @@ col_content{
 .footer ul{
     text-decoration: none;
     line-height: 20px;	
-}
+} */
 
 /*Styles for screen 1000px and lower*/
 @media screen and (max-width: 1000px) {
