@@ -310,9 +310,10 @@ col_content{
 /*Footer Styles*/
 
 .footer {
+   height: 2%;
    background-color: #9E9A9A;
    color: black;
-   padding: 2em;
+   padding: .5em;
    text-align: center;	
 }
 
@@ -322,18 +323,15 @@ col_content{
 }
 
 &__validators {
-   display: flex;
-   flex-direction: column;	
-   margin-bottom: 2em; 
-   align-items: center;
+   margin-bottom: 2em;
+   padding: 2px;
+   align-items: left;
    line-height: 2.25em	
 }
 
 &__links {
-  display: flex;
-  flex-direction: column;		
   margin-bottom: 2em;
-  align-items: center;
+  align-items: right;
   line-height: 2.25em;	
 }
 
