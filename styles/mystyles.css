@@ -312,13 +312,24 @@ col_content{
 .footer {
    background-color: #9E9A9A;
    color: black;
-   padding: 2.5em;
+   padding: 2em;
    text-align: center;	
 }
 
-.footer logo {
-   display: block;	
+&__logo {
+   display: block;
+   width: 100px;	
 }
+
+&__validators {
+   margin-bottom: 2em; 
+}
+
+&__links {
+  margin-bottom: 2em;
+}
+
+
 
 .footer a:link {
    color: black;
