@@ -313,8 +313,7 @@ col_content{
    height: 2%;
    background-color: #9E9A9A;
    color: black;
-   padding: .5em;
-   text-align: center;	
+   padding: .5em;   	
 }
 
 .footer img {
@@ -333,6 +332,10 @@ col_content{
   margin-bottom: 2em;
   align-items: right;
   line-height: 2.25em;	
+}
+
+&__copyright {
+  text-align: center;
 }
 
 .footer a:link {
