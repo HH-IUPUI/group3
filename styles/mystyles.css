@@ -348,6 +348,11 @@ col_content{
     font-size: 12px; 
 }
 
+.footer ul{
+    text-decoration: none;
+    line-height: 20px;	
+}
+
 /*Styles for screen 1000px and lower*/
 @media screen and (max-width: 1000px) {
 	
