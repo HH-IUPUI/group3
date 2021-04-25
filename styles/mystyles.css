@@ -322,6 +322,10 @@ col_content{
    width: 100px;
 }
 
+.footer ul {
+   list-style-type: none;
+}
+
 .footer validators {
    margin-bottom: 2em;
    padding: 2px;
