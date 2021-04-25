@@ -316,7 +316,7 @@ col_content{
    text-align: center;	
 }
 
-&__logo {
+.footer img {
    display: inline-block;
    width: 100px;	
 }
