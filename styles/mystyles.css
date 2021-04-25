@@ -339,6 +339,11 @@ col_content{
     color: black;	
 }
 
+.footer vals {
+    float: left;
+    width: 200px;	
+}
+
 .footer p {
     font-size: 12px; 
 }
