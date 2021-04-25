@@ -313,28 +313,29 @@ col_content{
    height: 2%;
    background-color: #9E9A9A;
    color: black;
-   padding: .5em;   	
+   padding: .5em;
+   text-align: center;
 }
 
-.footer img {
+.footer logo {
    display: inline-block;
-   width: 100px;	
+   width: 100px;
 }
 
-&__validators {
+.footer validators {
    margin-bottom: 2em;
    padding: 2px;
    align-items: left;
    line-height: 2.25em	
 }
 
-&__links {
+.footer links {
   margin-bottom: 2em;
   align-items: right;
   line-height: 2.25em;	
 }
 
-&__copyright {
+.footer copyright {
   text-align: center;
 }
 
