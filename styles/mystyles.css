@@ -327,14 +327,14 @@ col_content{
 }
 
 .validators {
-   margin-bottom: 2em;
+   margin-bottom: 0.5em;
    padding: 2px;
    float: left;
    line-height: 1.25em	
 }
 
 .links {
-  margin-bottom: 2em;
+  margin-bottom: 0.5em;
   float: right;
   line-height: 2.25em;
   text-align: left;
