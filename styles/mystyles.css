@@ -320,7 +320,6 @@ col_content{
 .footer img {
    display: inline-block;
    width: 100px;
-align:	
 }
 
 .footer ul {
@@ -330,15 +329,16 @@ align:
 .validators {
    margin-bottom: 2em;
    padding: 2px;
-   align-items: left;
+   float: left;
    line-height: 1.25em	
 }
 
 .links {
   margin-bottom: 2em;
-  align-items: right;
+  float: right;
   line-height: 2.25em;
   text-align: left;
+  font-weight: bold;	
 }
 
 .copyright {
