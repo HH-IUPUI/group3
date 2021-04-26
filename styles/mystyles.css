@@ -320,6 +320,7 @@ col_content{
 .footer img {
    display: inline-block;
    width: 100px;
+align:	
 }
 
 .footer ul {
@@ -330,16 +331,18 @@ col_content{
    margin-bottom: 2em;
    padding: 2px;
    align-items: left;
-   line-height: 2.25em	
+   line-height: 1.25em	
 }
 
 .links {
   margin-bottom: 2em;
   align-items: right;
-  line-height: 2.25em;	
+  line-height: 2.25em;
+  text-align: left;
 }
 
 .copyright {
+  clear: both;	
   text-align: center;
 }
 
