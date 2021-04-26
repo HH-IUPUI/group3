@@ -472,8 +472,7 @@ col_content{
 .validators {
    margin-bottom: 0.5em;
    margin-left: -35px;
-   line-height: 1.25em
-   float: none;	   
+   float: none; 
 }
 
 .links {
