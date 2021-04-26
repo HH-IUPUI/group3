@@ -602,7 +602,7 @@ col_content{
 }
 
 
-@media only screen and (max-width: 768px) {
+/*@media only screen and (max-width: 768px) {
   /* For general iPad layouts */
 .tablink {
   color: black;
@@ -614,4 +614,4 @@ col_content{
   font-size: 17px;
   width: 32.4%;
 }		
-}
+}*/
