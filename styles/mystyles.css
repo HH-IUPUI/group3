@@ -313,7 +313,7 @@ col_content{
    height: 2%;
    background-color: #9E9A9A;
    color: black;
-   padding: .5em;
+   padding: .2em;
    text-align: center;
 }
 
@@ -334,9 +334,9 @@ col_content{
 }
 
 .links {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.1em;
   float: right;
-  line-height: 2.25em;
+  line-height: 2.00em;
   text-align: left;
   font-weight: bold;	
 }
@@ -347,12 +347,16 @@ col_content{
 }
 
 .footer a:link {
-   color: black;
+   color: black;	
    text-decoration: none;
 	}
 
 .footer a:active {
-   color: black;
+   color: black;	
+}
+
+.footer a:hover {
+   color: #FFD41D;
 }
 
 .footer a:visited {
