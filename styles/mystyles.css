@@ -326,20 +326,20 @@ col_content{
    list-style-type: none;
 }
 
-.footer validators {
+.validators {
    margin-bottom: 2em;
    padding: 2px;
    align-items: left;
    line-height: 2.25em	
 }
 
-.footer links {
+.links {
   margin-bottom: 2em;
   align-items: right;
   line-height: 2.25em;	
 }
 
-.footer copyright {
+.copyright {
   text-align: center;
 }
 
