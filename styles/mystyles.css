@@ -472,12 +472,15 @@ col_content{
 .validators {
    margin-bottom: 0.5em;
    margin-left: -35px;
-   line-height: 1.25em	
+   line-height: 1.25em
+   float: none;	   
 }
 
 .links {
   margin-bottom: 0.1em;
-    line-height: 1.00em;
+  margin-left: -35px;	
+  line-height: 1.00em;
+  float: none;
   text-align: center;
   font-weight: bold;	
 }
@@ -485,6 +488,7 @@ col_content{
 .copyright {
   clear: both;	
   text-align: center;
+  font-size: small;	
 }	
 	
 }
