@@ -328,7 +328,6 @@ col_content{
 
 .validators {
    margin-bottom: 0.5em;
-   padding: 2px;
    float: left;
    line-height: 1.25em	
 }
@@ -336,7 +335,7 @@ col_content{
 .links {
   margin-bottom: 0.1em;
   float: right;
-  line-height: 2.00em;
+  line-height: 2.25em;
   text-align: left;
   font-weight: bold;	
 }
@@ -547,9 +546,9 @@ col_content{
   float: left;
   color: black;
   text-align: center;
-  padding: 10px 8px;
+  padding: 10px 2px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 18px;
 }
 	
 	
