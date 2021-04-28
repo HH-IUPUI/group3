@@ -313,7 +313,7 @@ col_content{
 .validators {
    margin-bottom: 0.5em;
    float: left;
-   line-height: 1.25em	
+   line-height: 1.5em	
 }
 
 .validators img {
@@ -323,7 +323,7 @@ col_content{
 .links {
   margin-bottom: 0.1em;
   float: right;
-  line-height: 2.25em;
+  line-height: 2em;
   text-align: left;
   font-weight: bold;	
 }
