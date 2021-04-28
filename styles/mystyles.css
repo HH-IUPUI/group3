@@ -194,7 +194,6 @@ col_content{
   position: relative;
   width: 100%;
   overflow: hidden;
-  /*padding-top: 56.25%; */
 }
 
 
@@ -315,6 +314,10 @@ col_content{
    margin-bottom: 0.5em;
    float: left;
    line-height: 1.25em	
+}
+
+.validators img {
+  width: 60px;
 }
 
 .links {
