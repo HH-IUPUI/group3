@@ -433,6 +433,19 @@ col_content{
    margin-left: 45px;	
 }	
 
+.validators {
+   margin-bottom: 0.5em;
+   margin-left: -80px;	
+   float: left;
+   line-height: 1.5em	
+}
+
+.validators img {
+  width: 40px;
+  border: .5px solid;
+  padding: 1.5px;	
+}
+	
 .links {
   margin-bottom: 0.1em;
   margin-left: -10px;
