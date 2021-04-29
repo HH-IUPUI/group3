@@ -545,6 +545,13 @@ col_content{
 }	
 	
 }
+/*Styles for screen 420px and lower*/
+@media only screen and (max-width : 420px) {
+.tabcontent img {
+  width: 150px;
+  padding: 20px;
+}
+}
 
 /*Styles for screen 360px and lower*/
 @media only screen and (max-width : 360px) {
