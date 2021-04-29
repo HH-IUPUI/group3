@@ -55,18 +55,6 @@ p
        line-height: 1.2;
 }
 
-.a:active {
-   color: #FFB357;	
-}
-
-.a:hover {
-   color: #FFB357;
-}
-
-.a:visited {
-    color: #FFB357;	
-}
-
 col_content{
        margin-top:30px;
 }
