@@ -427,6 +427,12 @@ col_content{
    text-align: left;
 }
 
+.footer img {
+   display: inline-block;
+   width: 150px;
+   margin-left: 55px;	
+}	
+
 .links {
   margin-bottom: 0.1em;
   margin-left: -10px;
