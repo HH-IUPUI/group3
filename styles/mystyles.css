@@ -129,6 +129,10 @@ col_content{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
+.flip-card-inner h1{
+  color: #FFB357;
+}
+
 .flip-card:hover .flip-card-inner {
   transform: rotateY(180deg);
 }
