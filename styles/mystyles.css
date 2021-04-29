@@ -295,7 +295,7 @@ col_content{
 
 .footer {
    height: 2%;
-   background-color: #9E9A9A;
+   background-color: #FFF5E9;
    color: black;
    padding: .2em;
    text-align: center;
@@ -304,6 +304,7 @@ col_content{
 .footer img {
    display: inline-block;
    width: 150px;
+   margin-left: 75px;	
 }
 
 .footer ul {
@@ -346,7 +347,7 @@ col_content{
 }
 
 .footer a:hover {
-   color: #FFD41D;
+   color: #FFB357;
 }
 
 .footer a:visited {
