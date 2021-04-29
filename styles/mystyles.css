@@ -424,13 +424,13 @@ col_content{
    background-color: #FFF5E9;
    color: black;
    padding: .2em;
-   text-align: left;
+   text-align: center;
 }
 
 .footer img {
    display: inline-block;
    width: 150px;
-   margin-left: 45px;	
+   margin-left: 75px;	
 }	
 
 .validators {
