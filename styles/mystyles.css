@@ -371,7 +371,7 @@ col_content{
 		
 }
 
-/*Styles for screen 1000px and lower*/
+/*Styles for screen 770 and lower*/
 @media screen and (max-width: 770px) {
 	
 #container
@@ -406,8 +406,25 @@ col_content{
   font-size: 17px;
   width: 32.4%;
 }		
-
 		
+}
+
+/*Styles for screen 600px and lower*/
+@media screen and (max-width: 600px) {
+	
+#container
+	{
+	width: 90%; 
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+.footer img {
+   display: inline-block;
+   width: 150px;
+   margin-left: auto;	
+}
+	
 }
 
 /*Styles for screen 480px and lower*/
@@ -456,6 +473,7 @@ col_content{
 .footer img {
    display: inline-block;
    width: 150px;
+   margin-left: auto;	
 }
 
 .validators {
@@ -481,6 +499,18 @@ col_content{
 	
 }
 
+/*Styles for screen 360px and lower*/
+@media only screen and (max-width : 360px) {
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 10px 5px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+}	
 
 /*Styles for screen 320px and lower*/
 @media only screen and (max-width : 320px) {
