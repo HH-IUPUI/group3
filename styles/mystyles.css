@@ -302,7 +302,7 @@ img, object, embed {
 }
 
 .reference {
-  padding: 0 18px;
+  padding: 2px 18px;
   display: none;
   overflow: none;
   background-color: #f1f1f1;
